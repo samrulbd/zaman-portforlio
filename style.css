@@ -1,0 +1,44 @@
+body{
+    font-family: 'Fira Sans', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size:45px;
+    
+}
+span{
+    color:orchid
+
+
+}
+section{
+    display: flex;
+    padding-left:5%;
+    font-size: medium;
+     margin-right: 0ex;
+     margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 87%;
+}
+.link-button{
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato );
+    padding:10px 40px;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    margin-top: 0;
+}
+.traum{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
